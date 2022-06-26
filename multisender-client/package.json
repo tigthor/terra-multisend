@@ -26,7 +26,7 @@
     "lowdb": "^1.0.0",
     "luxon": "^1.21.3",
     "mocha": "^8.0.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "request": "^2.88.0",
     "request-promise": "^4.2.5",
     "secp256k1": "^4.0.1",
