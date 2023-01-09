@@ -24,7 +24,7 @@
     "csvtojson": "^2.0.10",
     "elliptic": "^6.5.3",
     "lowdb": "^1.0.0",
-    "luxon": "^1.21.3",
+    "luxon": "^2.5.2",
     "mocha": "^8.0.1",
     "node-fetch": "^2.6.0",
     "request": "^2.88.0",
